@@ -37,3 +37,9 @@
 
 
 new     quest
+**1**  делаем  git commit
+**2**  делаем git checkout -b "youre branch"
+**3**  помещаем свои файлы
+**4**  делаем git add.
+**5**  делаем git commit 
+**6**  делаем git push
