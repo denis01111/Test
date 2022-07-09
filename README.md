@@ -14,3 +14,4 @@
 2. git push
 3. git pull
 4. pull request
+5. Все
