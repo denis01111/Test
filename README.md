@@ -16,7 +16,7 @@
 4. pull request
 5. Все
 
-## Double 2
+## Double 3
 # Работа с удаленными репозиториями
 1. git clone
 2. git push
