@@ -59,7 +59,7 @@ To receive changes from GitHub and merge them with local version type *git pull*
 
 To send local repo version to a remote repo (GitHub) type *git push*
 
-
+The end
 
 
 
